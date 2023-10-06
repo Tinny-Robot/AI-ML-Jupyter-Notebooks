@@ -1,4 +1,9 @@
 '''
+
+Understanding HelperFunctions
+    - Function to display 2 images side-by-side on screen
+    - Function to Extract largest object from souruce image
+
 Source : https://github.com/iSiddharth20/DeepLearning-ImageClassification-Toolkit
 '''
 
