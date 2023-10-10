@@ -53,7 +53,7 @@ Join us for Hacktoberfest and contribute to this open-source project! Your contr
 
 ## Licensing
 
-This project is open-source and available under the [License Name] License. Before using or contributing to this repository, please review the licensing terms provided in the repository's root directory.
+This project is open-source and available under the [MIT] License. Before using or contributing to this repository, please review the licensing terms provided in the repository's root directory.
 
 ## Connect with Us
 
