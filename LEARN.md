@@ -28,13 +28,13 @@ Welcome to the AI-ML-Jupyter-Notebooks repository! This guide will help you navi
 
 ## Deep Learning
 
-- [Convolutional Neural Networks (CNNs)](notebooks/deep_learning/cnn_image_classification.ipynb): Understand CNNs and apply them to image classification.
+- [Convolutional Neural Networks (CNNs) using TensorFlow](notebooks/deep_learning/CNNImageClassification/): Understand CNNs (using standard ResNet50) and apply them to image classification. Includes Pre-Processing, Creating & Training CNN Model, Working with PNG/JPEG Images.
 - [Recurrent Neural Networks (RNNs)](notebooks/deep_learning/rnn_text_generation.ipynb): Explore RNNs for text generation tasks.
 - [...]: Discover advanced deep learning models.
 
 ## Data Preprocessing
 
-- [Data Cleaning](notebooks/data_preprocessing/data_cleaning.ipynb): Learn techniques to clean and preprocess datasets.
+- [Data Cleaning](notebooks/data_preprocessing/data_cleaning.ipynb): Learn techniques to clean and preprocess datasets with an example dataset. All Steps are Visualised and Explained in Detail.
 - [Feature Selection](notebooks/data_preprocessing/feature_selection.ipynb): Understand how to select relevant features for your models.
 - [...]: Explore data preprocessing best practices.
 
@@ -52,7 +52,7 @@ Welcome to the AI-ML-Jupyter-Notebooks repository! This guide will help you navi
 
 ## Computer Vision
 
-- [Image Processing with OpenCV](notebooks/computer_vision/image_processing_opencv.ipynb): Learn image processing using OpenCV.
+- [Image Processing with OpenCV](notebooks/computer_vision/ExtractingLargestObjectFromImage/): Learn image processing using OpenCV by Extracting Largest Object from any PNG/JPEG Image.
 - [Object Detection with YOLO](notebooks/computer_vision/object_detection_yolo.ipynb): Implement object detection with YOLO.
 - [...]: Explore computer vision applications.
 
