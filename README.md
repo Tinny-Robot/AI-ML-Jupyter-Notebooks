@@ -28,3 +28,5 @@ This project is open-source and available under [License Name] License. Please r
 Follow us on LinkedIn [@AI Bauchi](https://www.linkedin.com/company/86812761/) for updates and announcements. Join our community and be part of the AI and ML journey!
 
 Start exploring, learning, and contributing today! 🎉
+
+- Nathaniel Handan 
